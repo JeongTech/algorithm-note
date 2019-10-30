@@ -1,1 +1,1 @@
-# algorithm-note-code
+# algorithm-note
